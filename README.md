@@ -1,6 +1,4 @@
-Heriot-Watt University 5th Year Masters Project
---------------------
-Robotic Mobile Manipulation Technology
+Heriot-Watt University 5th Year Masters Project - Robotic Mobile Manipulation Technology
 --------------------
 James Anderson & Fezan Tabassum
 --------------------
